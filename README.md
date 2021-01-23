@@ -1,5 +1,6 @@
 # AcDartProject
 
+他の言語に依存しない、Dart実装による数理科学ライブラリ群
 
 
 - MathDart：数学基礎システム
