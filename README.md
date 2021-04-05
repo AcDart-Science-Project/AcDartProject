@@ -2,6 +2,12 @@
 
 Rustによる高速化された実装を利用したDartによる数理科学ライブラリ群
 
+## 利用ライブラリ群
+
+本ライブラリ群は、「[AcRust Science Project](https://github.com/AcRust-Science-Project)」を利用したラッパーライブラリ群である。
+
+## 包含ライブラリ
+
 - MathDart：数学基礎システム
 - AcrateIO：入出力・GUIシステム
 - PlotDart：グラフ描画ライブラリ
