@@ -1,7 +1,6 @@
 # AcDartProject
 
-他の言語に依存しない、Dart実装による数理科学ライブラリ群
-
+Rustによる高速化された実装を利用したDartによる数理科学ライブラリ群
 
 - MathDart：数学基礎システム
 - AcrateIO：入出力・GUIシステム
